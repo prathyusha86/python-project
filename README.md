@@ -45,7 +45,23 @@ remote: Compressing objects: 100% (16/16), done.
 remote: Total 24 (delta 6), reused 0 (delta 0), pack-reused  
 Receiving objects: 100% (24/24), 5.38 KiB | 1.79 MiB/s, done.Resolving deltas: 100% (6/6), done.
 
-cd:change directory 
+cd:change directory cd project name
+ls:list files  README.md
+ls -a  for mac 2) ls -h for windows  hidden files
+
+status: 
+cmd: git status lets open readme file and do changes
+(add->commit) 
+no changes added to commit
+ modified:   README.md
+
+ other commands:
+ untracked:new file that doesn't yet track
+ modified: changes
+ staged:file is ready to be continued
+ unmodified:unchanged
+
+
 
 
 
