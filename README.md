@@ -28,6 +28,15 @@ observe:
 user.name=xxx
 user.email=xxx
 
+open vscode 
+open newfolder eg:gitdemo
+left bottom ->(0) click-->opened new terminal-->check version 
+local-->laptop/pc
+remote-->githuh
+1)clone :clonig our repository on our local machine
+2)status  :display the status of the code
+
+
 
 
 
