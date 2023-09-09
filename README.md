@@ -73,8 +73,22 @@ no changes added to commit
  git commit -m "Add new html file" (to finally commit)
  push :upload local repo content to remote repo
  git push orgin main
- 
 
+ init command:
+init:used to create new git repo
+git init
+
+git remote add origin<link>
+
+git remote -v (to verify remote)
+bit branch(to check branch)
+bit branch -M main(to remote branch)
+git push origin main(to push new files)
+
+cd ..(to come out off all files)
+mkdir newfoldername(to create another folder)
+cd LocalRepo
+(to enter into new repo)  PS C:\Users\G. prathyusha\Desktop\gitdemo\LocalRepo>
 
 
 
