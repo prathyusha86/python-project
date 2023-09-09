@@ -20,13 +20,13 @@ steps to be followed in git bash
 
 //to set name,email,check
 
-1) git config --global user.name "prathyusha86"
-2)git config --global user.email "prathyushagudipelly76@gmail.com"
+1) git config --global user.name "xxxx"
+2)git config --global user.email "xxx@gmail.com"
 3)git config --list
 
 observe:
-user.name=prathyusha86
-user.email=prathyushagudipelly76@gmail.com
+user.name=xxx
+user.email=xxx
 
 
 
