@@ -69,6 +69,10 @@ no changes added to commit
 
  to add new files into our project create .html/css or any file and run
  git add . ( modified:   README.md  , new file:   index.html)
+ git commit -m "Add new html file" (to finally commit)
+ push :upload local repo content to remote repo
+ git push orgin main
+ 
 
 
 
