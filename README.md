@@ -61,6 +61,12 @@ no changes added to commit
  staged:file is ready to be continued
  unmodified:unchanged
 
+ add:adds new or changed files in your working directory to the git staging area
+ git add<file-name>
+
+ commit:it is the record of change
+ git commit -m "some message"
+
 
 
 
