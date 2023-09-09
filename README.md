@@ -67,6 +67,9 @@ no changes added to commit
  commit:it is the record of change
  git commit -m "some message"
 
+ to add new files into our project create .html/css or any file and run
+ git add . ( modified:   README.md  , new file:   index.html)
+
 
 
 
