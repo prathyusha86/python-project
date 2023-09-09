@@ -37,6 +37,46 @@ remote-->githuh
 1)clone :clonig our repository on our local machine
 2)status  :display the status of the code
 
+cloning:
+ >>git clone https://github.com/prathyusha86/python-project.git
+Cloning into 'python-project'...
+remote: Enumerating objects: 24, done.
+remote: Counting objects: 100% (24/24), done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 24 (delta 6), reused 0 (delta 0), pack-reused  
+Receiving objects: 100% (24/24), 5.38 KiB | 1.79 MiB/s, done.Resolving deltas: 100% (6/6), done.
+
+cd:change directory cd project name
+ls:list files  README.md
+ls -a  for mac 2) ls -h for windows  hidden files
+
+status: 
+cmd: git status lets open readme file and do changes
+(add->commit) 
+no changes added to commit
+ modified:   README.md
+
+ other commands:
+ untracked:new file that doesn't yet track
+ modified: changes
+ staged:file is ready to be continued
+ unmodified:unchanged
+
+ add:adds new or changed files in your working directory to the git staging area
+ git add<file-name>
+
+ commit:it is the record of change
+ git commit -m "some message"
+
+ to add new files into our project create .html/css or any file and run
+ git add . ( modified:   README.md  , new file:   index.html)
+ git commit -m "Add new html file" (to finally commit)
+ push :upload local repo content to remote repo
+ git push orgin main
+ 
+
+
+
 
 
 
