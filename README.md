@@ -36,6 +36,17 @@ remote-->githuh
 1)clone :clonig our repository on our local machine
 2)status  :display the status of the code
 
+cloning:
+ >>git clone https://github.com/prathyusha86/python-project.git
+Cloning into 'python-project'...
+remote: Enumerating objects: 24, done.
+remote: Counting objects: 100% (24/24), done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 24 (delta 6), reused 0 (delta 0), pack-reused  
+Receiving objects: 100% (24/24), 5.38 KiB | 1.79 MiB/s, done.Resolving deltas: 100% (6/6), done.
+
+cd:change directory 
+
 
 
 
